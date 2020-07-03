@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Portfolio : Talha</string>
     <string name="about_talha">"This guy writes garbage codes and pretends to know everything."</string>
-    <string name="skills">*Java "\n" *Android "\n" *Competitive Programming</string>
-    <string name="work">*ThreeAM App "\n" *Neuron Aloron App "\n" *Hariken App "\n" *Tap Tap Tap App "\n" *Connect3 App</string>
+    <string name="skills">* Java "\n"* Android "\n"* Competitive Programming</string>
+    <string name="work">* ThreeAM App "\n"* Neuron Aloron App "\n"* Hariken App "\n"* Tap Tap Tap App "\n"* Connect3 App</string>
     <string name="contact"></string>
 </resources>
